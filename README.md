@@ -5,8 +5,11 @@ Assignment: Introduction to Software Engineering
 Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
-Questions:
-Define Software Engineering:
+## Questions:
+
+### Define Software Engineering:
+
+- Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. It is a systematic and disciplined approach to software development that aims to create high-quality, reliable, and maintainable software. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end-users
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
