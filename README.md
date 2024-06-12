@@ -15,7 +15,7 @@ Answer the following questions based on your understanding of software engineeri
  
 2. **Software Development Life Cycle (SDLC):**
 
-_Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase._
+* _Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase._
 
 The Software Development Life Cycle (SDLC) is a process used by software industry professionals to design, develop, and test high-quality software. Here are the various phases of the SDLC, along with brief descriptions of each:
 
