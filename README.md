@@ -1,9 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15224856&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-2
-Assignment: Introduction to Software Engineering
-Instructions:
-Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
+
+### Assignment: Introduction to Software Engineering
+
+**Instructions:**
+
+- Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 ## Questions:
 
@@ -21,11 +24,15 @@ Answer the following questions based on your understanding of software engineeri
 
 1. **Planning:**
 
-**Description:** This phase involves defining the project's scope, objectives, and deliverables. It includes feasibility studies, resource allocation, project scheduling, and risk management. The main goal is to establish a clear plan and roadmap for the project's execution.  
+	- This phase involves defining the project's scope, objectives, and deliverables. It includes feasibility studies, resource allocation, project scheduling, and risk management. The main goal is to establish a clear plan and roadmap for the project's execution.  
 
 2. **Requirements Analysis:**
 
-**Description:** During this phase, stakeholders' needs and expectations are gathered and documented in detail. Functional and non-functional requirements are identified, ensuring that the software will meet user needs and comply with business rules.
+	- During this phase, stakeholders' needs and expectations are gathered and documented in detail. Functional and non-functional requirements are identified, ensuring that the software will meet user needs and comply with business rules.
+
+3. **Design:**
+
+	- This phase focuses on creating the architecture of the software system. It involves defining the system components, data flow, interface designs, and technical specifications. The goal is to develop a blueprint that guides developers in the implementation phase.
 
 
 
