@@ -22,31 +22,31 @@
 
 	- The Software Development Life Cycle (SDLC) is a process used by software industry professionals to design, develop, and test high-quality software. Here are the various phases of the SDLC, along with brief descriptions of each:
 
-1. **Planning:**
+a. **Planning:**
 
 	- This phase involves defining the project's scope, objectives, and deliverables. It includes feasibility studies, resource allocation, project scheduling, and risk management. The main goal is to establish a clear plan and roadmap for the project's execution.  
 
-2. **Requirements Analysis:**
+b. **Requirements Analysis:**
 
 	- During this phase, stakeholders' needs and expectations are gathered and documented in detail. Functional and non-functional requirements are identified, ensuring that the software will meet user needs and comply with business rules.
 
-3. **Design:**
+c. **Design:**
 
 	- This phase focuses on creating the architecture of the software system. It involves defining the system components, data flow, interface designs, and technical specifications. The goal is to develop a blueprint that guides developers in the implementation phase.
 
-4. **Implementation:**
+d. **Implementation:**
 
 	- In this phase, the actual code is written based on the design specifications. Developers create software components, integrate them, and perform initial debugging to ensure that the code functions as intended.
 
-5. **Testing:**
+e. **Testing:**
 
 	- Testing involves systematically checking the software for defects and verifying that it meets the specified requirements. Various levels of testing, including unit, integration, system, and user acceptance testing, are conducted to ensure quality and functionality.
 
-6. **Deployment:**
+f. **Deployment:**
 
 	- Once the software passes all testing phases, it is deployed to the production environment where it becomes available to users. This phase may include installation, configuration, and initial user training.
 
-7. **Maintenance:**
+g. **Maintenance:**
 
 	- Post-deployment, the software enters the maintenance phase, where it is monitored and updated to fix bugs, improve performance, and adapt to changing requirements. This phase ensures the software continues to function effectively over time.
 
