@@ -31,35 +31,35 @@ Answer the following questions based on your understanding of software engineeri
 
 3. **Agile vs. Waterfall Models:**
 
-_**Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?**_
+* _Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?_
 
 4. **Requirements Engineering:**
 
-_**What is requirements engineering? Describe the process and its importance in the software development lifecycle.**_
+* _What is requirements engineering? Describe the process and its importance in the software development lifecycle._
 
 5. **Software Design Principles:**
 
-_**Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?**_
+* _Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?_
 
 6. **Testing in Software Engineering:**
 
-_**Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?**_
+* _Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?_
 
 7. **Version Control Systems:**
 
-_**What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.**_
+* _What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features._
 
 8. **Software Project Management:**
 
-_**Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?**_
+* _Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?_
 
 9. **Software Maintenance:**
 
-_**Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?**_
+* _Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?_
 
 10. **Ethical Considerations in Software Engineering:**
 
-_**What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?**_
+* _What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?_
 
 * **Submission Guidelines:**
 
