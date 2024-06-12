@@ -7,13 +7,15 @@ Answer the following questions based on your understanding of software engineeri
 
 ## Questions:
 
-1. **What is software engineering, and how does it differ from traditional programming?**
+1. **Define Software Engineering:**
+
+_**What is software engineering, and how does it differ from traditional programming?**_
 	
 	- Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. It is a systematic and disciplined approach to software development that aims to create high-quality, reliable, and maintainable software. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end-users. In contrast, traditional programming primarily involves the act of writing code to solve specific problems, often with less emphasis on structured processes, documentation, long-term maintenance, and cross-functional teamwork.
  
-**Software Development Life Cycle (SDLC):**
+2. **Software Development Life Cycle (SDLC):**
 
-2. **Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.**
+_**Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.**_
 
 The Software Development Life Cycle (SDLC) is a process used by software industry professionals to design, develop, and test high-quality software. Here are the various phases of the SDLC, along with brief descriptions of each:
 
@@ -27,40 +29,41 @@ The Software Development Life Cycle (SDLC) is a process used by software industr
 
 
 
-**Agile vs. Waterfall Models:**
+3. **Agile vs. Waterfall Models:**
 
-Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+_**Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?**_
 
-**Requirements Engineering:**
+4. **Requirements Engineering:**
 
-What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+_**What is requirements engineering? Describe the process and its importance in the software development lifecycle.**_
 
-**Software Design Principles:**
+5. **Software Design Principles:**
 
-Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+_**Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?**_
 
-**Testing in Software Engineering:**
+6. **Testing in Software Engineering:**
 
-Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+_**Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?**_
 
-**Version Control Systems:**
+7. **Version Control Systems:**
 
-What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+_**What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.**_
 
-**Software Project Management:**
+8. **Software Project Management:**
 
-Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+_**Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?**_
 
-**Software Maintenance:**
+9. **Software Maintenance:**
 
-Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+_**Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?**_
 
-**Ethical Considerations in Software Engineering:**
+10. **Ethical Considerations in Software Engineering:**
 
-What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+_**What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?**_
 
-Submission Guidelines:
-Your answers should be well-structured, concise, and to the point.
-Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
+* **Submission Guidelines:**
+
+	- Your answers should be well-structured, concise, and to the point.
+	- Provide real-world examples or case studies wherever possible.
+	- Cite any references or sources you use in your answers.
+	- Submit your completed assignment by [due date].
