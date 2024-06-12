@@ -9,13 +9,13 @@ Answer the following questions based on your understanding of software engineeri
 
 1. **Define Software Engineering:**
 
-_**What is software engineering, and how does it differ from traditional programming?**_
+* _What is software engineering, and how does it differ from traditional programming?_
 	
 	- Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. It is a systematic and disciplined approach to software development that aims to create high-quality, reliable, and maintainable software. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end-users. In contrast, traditional programming primarily involves the act of writing code to solve specific problems, often with less emphasis on structured processes, documentation, long-term maintenance, and cross-functional teamwork.
  
 2. **Software Development Life Cycle (SDLC):**
 
-_**Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.**_
+_Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase._
 
 The Software Development Life Cycle (SDLC) is a process used by software industry professionals to design, develop, and test high-quality software. Here are the various phases of the SDLC, along with brief descriptions of each:
 
