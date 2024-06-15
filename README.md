@@ -135,6 +135,61 @@ b **Waterfall:**
 
 * _What is requirements engineering? Describe the process and its importance in the software development lifecycle._
 
+	- Requirements engineering is a systematic process involved in defining, documenting, and maintaining the requirements for a software system
+
+### The Requirements Engineering Process
+
+a **Requirements Elicitation:**
+
+- **Description:** Gathering requirements from stakeholders, users, and other sources. Techniques include interviews, surveys, observation, workshops, and document analysis.
+- **Importance:** Ensures a clear understanding of what stakeholders need from the system.
+
+b **Requirements Analysis:**
+
+- **Description:** Analyzing the gathered requirements to resolve conflicts, determine feasibility, and prioritize them. This step involves creating models and diagrams to better understand the requirements.
+- **Importance:** Helps in identifying potential issues early and ensures that requirements are realistic and achievable.
+
+c **Requirements Specification:**
+
+- **Description:** Documenting the requirements in a clear, concise, and comprehensive manner. The output is usually a Software Requirements Specification (SRS) document.
+- **Importance:** Provides a reference point for stakeholders and developers, ensuring everyone has a shared understanding of the requirements.
+
+d **Requirements Validation:**
+
+- **Description:** Checking the documented requirements for accuracy, completeness, and consistency. Techniques include reviews, inspections, and validation meetings with stakeholders.
+- **Importance:** Ensures that the documented requirements accurately reflect the stakeholders' needs and are viable for implementation.
+
+e **Requirements Management:**
+
+- **Description:** Continuously managing and maintaining requirements throughout the project lifecycle. This involves tracking changes, updating documentation, and ensuring alignment with the project goals.
+- **Importance:** Keeps the requirements relevant and up-to-date, allowing the project to adapt to changes in scope or stakeholder needs.
+
+### Importance of Requirements Engineering in the SDLC
+
+a **Alignment with Stakeholder Needs:**
+
+- Ensures that the software being developed meets the actual needs and expectations of stakeholders, reducing the risk of project failure due to unmet requirements.
+
+b **Reduction of Development Costs:**
+
+- Identifying and addressing issues in the requirements phase is significantly cheaper than making changes during later stages of development. It reduces costly rework and minimizes delays.
+
+c **Improved Communication:**
+
+- Provides a clear and shared understanding of what the system should do, facilitating better communication among stakeholders, developers, testers, and project managers.
+
+d **Enhanced Quality and Reliability:**
+
+- Well-defined and validated requirements lead to the development of higher-quality software that performs reliably and meets user expectations.
+
+e **Risk Management:**
+
+- Early identification of potential issues and conflicts in requirements helps in managing and mitigating risks effectively throughout the project.
+
+f **Foundation for Design and Testing:**
+
+- Serves as a basis for system design and testing, ensuring that the developed system can be tested against the documented requirements to verify its functionality and performance. 
+
 
 
 5. **Software Design Principles:**
