@@ -137,7 +137,7 @@ b **Waterfall:**
 
 	- Requirements engineering is a systematic process involved in defining, documenting, and maintaining the requirements for a software system
 
-### The Requirements Engineering Process
+#### The Requirements Engineering Process
 
 a **Requirements Elicitation:**
 
@@ -164,7 +164,7 @@ e **Requirements Management:**
 - **Description:** Continuously managing and maintaining requirements throughout the project lifecycle. This involves tracking changes, updating documentation, and ensuring alignment with the project goals.
 - **Importance:** Keeps the requirements relevant and up-to-date, allowing the project to adapt to changes in scope or stakeholder needs.
 
-### Importance of Requirements Engineering in the SDLC
+#### Importance of Requirements Engineering in the SDLC
 
 a **Alignment with Stakeholder Needs:**
 
