@@ -79,11 +79,63 @@ g. **Maintenance:**
 	- **Delivery:** Single final product delivery at the end of the development cycle.
 	- **Testing:** Performed after the implementation phase.
 	- **Risk Management:** Risks identified at the beginning; can be costly to address issues found late.
-	- **Team Structure:** Specialized teams focusing on different phases of the project.
+	- **Team Structure:** Specialized teams focusing on different phases of the project
+
+### Key Differences:
+
+a **Process Flow:**
+
+- Agile uses an iterative process with overlapping phases.
+- Waterfall follows a linear process with distinct, non-overlapping phases.
+
+b **Flexibility:**
+
+- Agile is highly flexible and adapts to changing requirements throughout the project.
+- Waterfall is rigid and changes are difficult to implement once a phase is completed.
+
+c **Customer Involvement:**
+
+- Agile involves customers continuously, providing regular feedback and allowing adjustments.
+- Waterfall involves customers mainly at the initial requirements phase and at the end during acceptance testing.
+
+d **Delivery Schedule:**
+
+- Agile delivers working software frequently, usually in 1-4 week iterations.
+- Waterfall delivers the final product only after all development is completed.
+
+e **Risk Management:**
+
+- Agile manages risks through continuous testing and feedback.
+- Waterfall addresses risks at the beginning, but late discoveries can be costly and challenging to fix.
+
+f **Documentation:**
+
+- Agile values working software over extensive documentation, though some documentation is still maintained.
+- Waterfall emphasizes thorough documentation at each stage of development.
+
+### Preferred Scenarios:
+
+a **Agile:**
+
+- Projects with dynamic requirements that are likely to change.
+- Environments where customer and stakeholder feedback is crucial.
+- Projects needing frequent delivery of functional components.
+- Teams that thrive in collaborative, flexible, and adaptive settings.
+- Complex projects requiring iterative learning and adjustments.
+
+b **Waterfall:**
+
+- Projects with well-defined, stable requirements that are unlikely to change.
+- Situations where a clear, linear progression is essential.
+- Industries with regulatory requirements needing extensive documentation.
+- Projects with limited customer interaction after initial requirements are set.
+- Simple or smaller projects where the scope is clearly understood from the start
 
 4. **Requirements Engineering:**
 
 * _What is requirements engineering? Describe the process and its importance in the software development lifecycle._
+
+
 
 5. **Software Design Principles:**
 
